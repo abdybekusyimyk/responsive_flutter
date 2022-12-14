@@ -1,0 +1,1 @@
+const MobileWidth = 600;
